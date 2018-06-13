@@ -2,7 +2,7 @@
 /* Body
 ------------------------------------- */
 body {
-		background: #ffffff;
+		background: #ef3bfb;
     font-family: 'Oxygen', sans-serif;
     font-weight: 400;
     position: relative;
@@ -67,8 +67,8 @@ a {text-decoration: none !important;}
 
 .section-btn {
   background: transparent;
-  border: 3px solid #ffffff;
-  color: #ffffff;
+  border: 3px solid #ef3bfb;
+  color: #ef3bfb;
   font-weight: bold;
   letter-spacing: 1px;
   padding: 12px 40px;
@@ -165,7 +165,7 @@ a {text-decoration: none !important;}
 /* navigation styles
 /* ========================================== */
 .navbar-default {
-    background: #ffffff;
+    background: #ef3bfb;
     border: none;
     box-shadow: 0px 2px 8px 0px rgba(50, 50, 50, 0.04);
     margin: 0 !important;
@@ -234,7 +234,7 @@ a {text-decoration: none !important;}
   -webkit-background-size: cover;
   background-size: cover;
   background-position: center center;
-  color: #ffffff;
+  color: #ef3bfb;
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
@@ -316,7 +316,7 @@ a {text-decoration: none !important;}
 
 #portfolio .portfolio-thumb .portfolio-overlay {
     background: #63c6ae;
-    color: #ffffff;
+    color: #ef3bfb;
     top: 0;
     right: 0;
     left: 0;
@@ -346,7 +346,7 @@ a {text-decoration: none !important;}
 
 
 #portfolio .portfolio-thumb .portfolio-overlay .fa {
-    background: #ffffff;
+    background: #ef3bfb;
     border-radius: 100px;
     color: #63c6ae;
     font-size: 22px;
@@ -381,7 +381,7 @@ a {text-decoration: none !important;}
   -webkit-background-size: cover;
   background-size: cover;
   background-position: center center;
-  color: #ffffff;
+  color: #ef3bfb;
 }
 
 #blog .blog-wrapper:hover h3 a {color: #63c6ae;}
@@ -625,14 +625,14 @@ a {text-decoration: none !important;}
 #contact input[type="submit"] {
   background: #63c6ae;
   border-color: transparent;
-  color: #ffffff;
+  color: #ef3bfb;
   letter-spacing: 2px;
   height: 50px;
   margin-top: 18px;
 }
 
 #contact input[type="submit"]:hover {
-  background: #ffffff;
+  background: #ef3bfb;
   color: #63c6ae;
 }
 
@@ -661,7 +661,7 @@ footer {
 .social-icon li a {
   background: #202020;
   border-radius: 100px;
-  color: #ffffff;
+  color: #ef3bfb;
   font-size: 14px;
   width: 40px;
   height: 40px;
